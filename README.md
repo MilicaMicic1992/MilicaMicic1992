@@ -14,7 +14,7 @@ Aktivno učim JavaScript i React i razvijam projekte kako bih se usavršila kao 
 Ovi sajtovi su custom WordPress sajtovi koje sam razvila od nule:
 
 - [Vodič Nekretnine](https://vodicnekretnine.rs/)  
-- [Elixtim](https://elixtim.rs/)  
+- [Elixtim](https://elixtim.rs/)  - trenutno je u maintenance modu na zahtev klijenta
 - [Izolacija Poliuretanima](https://www.izolacijapoliuretanima.rs/)  
 - [Respect Cars](https://respectcars.rs/)  
 
