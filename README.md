@@ -58,4 +58,4 @@ React • JavaScript • WordPress • HTML • CSS • Figma • ACF • Elemen
 
 ## 📬 Kontakt
 
-Otvorena sam za nove prilike, posebno React/JS praksu ili početničke pozicije. Hvala što ste pogledali moj rad!
+Otvorena sam za nove prilike, praksu ili početničke pozicije. Hvala što ste pogledali moj rad!
