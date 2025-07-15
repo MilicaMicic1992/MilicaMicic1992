@@ -1,4 +1,4 @@
-# Milica M.
+# Milica Mićić
 
 ## 🔧 React i JavaScript praksa
 
